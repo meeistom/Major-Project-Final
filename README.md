@@ -1,7 +1,7 @@
 # Major-Project-Final
 
 ## Introduction
-This was my major project for year 12 which I named Digiit Reboot and it is a progam that teaches the user how to touch type.
+This was my major project for year 12 which I named Digit Reboot and it is a progam that teaches the user how to touch type.
 
 ## Technologies
 It was programmed in Python 3.9.4 utilising the pygame module for the GUI.
